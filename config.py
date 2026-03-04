@@ -5,7 +5,7 @@ Modify these paths according to your environment.
 import os
 
 # ─── Model Paths ─────────────────────────────────────────────
-INTERNVL_MODEL_PATH = "/NetDisk/juyeon/models/InternVL3_5-8B"
+INTERNVL_MODEL_PATH = "/NetDisk/juyeon/DocSP/outputs/stage1_multinode"
 QWEN25VL_MODEL_PATH = "/NetDisk/juyeon/models/Qwen2.5-VL-7B-Instruct"
 
 VICUNA_PATH = "/NetDisk/juyeon/models/vicuna-7b-v1.5"
