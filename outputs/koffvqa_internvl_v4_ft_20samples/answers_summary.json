@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "id": "koffvqa_0",
+    "question": "이 사진에 비행기가 보입니까? 보인다면 몇 대가 있습니까?",
+    "gt_answer": "* 비행기가 존재한다는 걸 옳게 설명했으면 +5점\n* 비행기의 개수가 2대라는 걸 옳게 설명했으면 +5점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 1,
+    "id": "koffvqa_1",
+    "question": "이 사진에 사람이 보입니까? 보인다면 사람은 어디에 위치해 있습니까?",
+    "gt_answer": "* 사람이 보인다고 옳게 판정했다면 +4점\n* 사람이 사진의 위쪽 또는 사진의 뒤쪽에 위치한 비행기 아래에 있다고 옳게 설명했다면 +6점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 2,
+    "id": "koffvqa_2",
+    "question": "이 사진에 존재하는 비행기들의 주 날개 개수를 합치면 총 몇 개가 있을까요? 사고 과정을 설명해주세요.",
+    "gt_answer": "* 6개라고 옳게 답했다면 +7점\n* 위의 기준을 충족했을 때, 날개 개수를 세는 과정을 자세히 설명했다면 +3점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 3,
+    "id": "koffvqa_3",
+    "question": "이 사진에 채소가 보입니까? 보인다면 어떤 종류의 채소입니까?",
+    "gt_answer": "* 사진에 채소가 없다고 옳게 답했다면 +10점\n* 채소가 있다고 답하거나 채소의 종류를 설명했다면 0점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 4,
+    "id": "koffvqa_4",
+    "question": "이 사진에 등장하는 칼날의 개수는 총 몇 개입니까?",
+    "gt_answer": "* 9개라고 옳게 답했다면 10점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 5,
+    "id": "koffvqa_5",
+    "question": "이 사진에서 맨 오른쪽 위에 있는 칼의 손잡이는 무슨 색입니까?",
+    "gt_answer": "* 청록색이라고 또는 푸른색이라고 옳게 답했다면 10점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 6,
+    "id": "koffvqa_6",
+    "question": "이 사진에서 보이는 바퀴 수는 몇 개입니까?",
+    "gt_answer": "* 2개라고 옳게 답했다면 10점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 7,
+    "id": "koffvqa_7",
+    "question": "이 사진에서 사람은 어떤 종류의 신발을 신고 있습니까? 그리고 신발의 색은 무엇입니까?",
+    "gt_answer": "* 운동화 또는 캔버스화라고 옳게 답했다면 +5점\n* 색깔이 흰색이라고 또는 베이지색이라고 옳게 답했다면 +5점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 8,
+    "id": "koffvqa_8",
+    "question": "이 사진에서 보이는 차량의 종류와 색에 대해 설명하세요.",
+    "gt_answer": "* 차가 승합차라고 또는 밴이라고 옳게 판정했다면 +5점\n* 차가 흰색이라고 또는 회색이라고 옳게 판정했다면 +5점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 9,
+    "id": "koffvqa_9",
+    "question": "사진에서 개가 보입니까? 보인다면 개의 색 또는 무늬에 대해 설명하세요.",
+    "gt_answer": "* 사진에 개가 존재한다고 옳게 판정했다면 +4점\n* 사진의 개가 검은색이라고 옳게 설명했다면 +6점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 10,
+    "id": "koffvqa_10",
+    "question": "사진에 나온 건물은 몇 층짜리 건물입니까?",
+    "gt_answer": "* 5층짜리 건물이라고 옳게 설명했다면 10점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 11,
+    "id": "koffvqa_11",
+    "question": "사진에 나온 건물의 외벽은 여러 가지 색으로 이루어져 있습니다. 아래에서 위로의 순서대로 건물 외벽의 색을 나열하세요.",
+    "gt_answer": "* 푸른색, 붉은색(또는 주황색), 회색(또는 흰색) 이렇게 3개의 색을 순서대로 잘 나열했다면 10점 (이 셋과 유사한 색을 나열했더라도 10점)\n* 위 평가항목의 3가지 색과 매우 다른 색을 제시하거나 순서를 다르게 제시했다면 0점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 12,
+    "id": "koffvqa_12",
+    "question": "사진에 과일이 존재합니까? 존재한다면 어떤 과일이 보이고, 각각 몇 개인지 나열하세요.",
+    "gt_answer": "* 사진에 과일이 존재한다고 옳게 판단했다면 +2점\n* 사진에 있는 과일은 체리 한 종류라고 옳게 판단했다면 +4점\n* 사진에 있는 체리는 총 6개라고 옳게 판단했다면 +4점\n* 체리가 아닌 다른 과일이 있다고 하거나 체리의 수를 잘못 세었다면 0점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 13,
+    "id": "koffvqa_13",
+    "question": "사진에는 빵 몇 조각이 보입니까?",
+    "gt_answer": "* 사진에 빵 3조각이 보인다고 옳게 판정했다면 10점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 14,
+    "id": "koffvqa_14",
+    "question": "사진에 나온 새는 어떤 색깔인가요?",
+    "gt_answer": "* 새가 흰색(또는 회색)과 노란색으로 이루어져 있다고 옳게 설명하면 10점\n* 노란색은 언급하지 않았더라고 흰색 또는 회색이라고 설명하면 7점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 15,
+    "id": "koffvqa_15",
+    "question": "이 사진에서 음식이 담긴 접시는 무슨 색입니까?",
+    "gt_answer": "* 검은색이라고 옳게 설명했다면 10점\n* 검은색이 아니라 다른 색으로 판단했다면 0점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 16,
+    "id": "koffvqa_16",
+    "question": "이 사진 속에 사람이 있습니까? 사람이 보인다면 사진 속에서 어디에 위치해 있는지 설명하세요.",
+    "gt_answer": "* 사진 속에 사람이 보이지 않는다고 옳게 판단했다면 10점\n* 사진 속에 사람이 보인다고 하거나 사람의 위치를 특정했다면 0점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 17,
+    "id": "koffvqa_17",
+    "question": "이 사진 속의 물체의 기하학적인 모양에 대해 설명하세요.",
+    "gt_answer": "* 사진 속의 물체가 정육면체 또는 직육면체 모양이라고 옳게 판단했다면 10점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 18,
+    "id": "koffvqa_18",
+    "question": "사진 속에 말이 보입니까? 보인다면 말은 총 몇 마리 있습니까?",
+    "gt_answer": "* 사진 속에 말이 없다고(0마리 보인다고) 옳게 판단했다면 10점\n* 사진 속에 말이 있다고 하거나 0이 아닌 수의 말이 보인다고 답했다면 0점",
+    "category": "object attributes"
+  },
+  {
+    "idx": 19,
+    "id": "koffvqa_19",
+    "question": "이 사진의 배경은 무슨 색입니까?",
+    "gt_answer": "* 배경의 색이 녹색, 초록색, 청록색, 민트색, 푸른색 등이라고 옳게 답했다면 10점",
+    "category": "object attributes"
+  }
+]

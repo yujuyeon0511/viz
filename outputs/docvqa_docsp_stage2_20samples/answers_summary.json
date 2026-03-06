@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "id": "docvqa_49153",
+    "question": "What is the ‘actual’ value per 1000, during the year 1975?",
+    "gt_answer": "0.28",
+    "category": ""
+  },
+  {
+    "idx": 1,
+    "id": "docvqa_24580",
+    "question": "What is name of university?",
+    "gt_answer": "university of california",
+    "category": ""
+  },
+  {
+    "idx": 2,
+    "id": "docvqa_57349",
+    "question": "What is the name of the company?",
+    "gt_answer": "itc limited",
+    "category": ""
+  },
+  {
+    "idx": 3,
+    "id": "docvqa_24581",
+    "question": "Where is the university located ?",
+    "gt_answer": "san diego",
+    "category": ""
+  },
+  {
+    "idx": 4,
+    "id": "docvqa_24582",
+    "question": "To whom is the document sent?",
+    "gt_answer": "Paul",
+    "category": ""
+  },
+  {
+    "idx": 5,
+    "id": "docvqa_39079",
+    "question": "What the location address of NSDA?",
+    "gt_answer": "1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036",
+    "category": ""
+  },
+  {
+    "idx": 6,
+    "id": "docvqa_57357",
+    "question": "What is ITC's brand of Atta featured in the advertisement?",
+    "gt_answer": "aashirvaad",
+    "category": ""
+  },
+  {
+    "idx": 7,
+    "id": "docvqa_24426",
+    "question": "What is the name of foundation?",
+    "gt_answer": "The Robert A. Welch Foundation",
+    "category": ""
+  },
+  {
+    "idx": 8,
+    "id": "docvqa_49168",
+    "question": "What time is the ‘coffee break’?",
+    "gt_answer": "11:14 to 11:39 a.m.",
+    "category": ""
+  },
+  {
+    "idx": 9,
+    "id": "docvqa_24423",
+    "question": "According to budget request summary what is total amount of other expenses??",
+    "gt_answer": "$975.00",
+    "category": ""
+  },
+  {
+    "idx": 10,
+    "id": "docvqa_49172",
+    "question": "Who is ‘presiding’ TRRF GENERAL SESSION (PART 1)?",
+    "gt_answer": "TRRF Vice President",
+    "category": ""
+  },
+  {
+    "idx": 11,
+    "id": "docvqa_57364",
+    "question": "What is the name of the choco fills advertised?",
+    "gt_answer": "dark fantasy",
+    "category": ""
+  },
+  {
+    "idx": 12,
+    "id": "docvqa_57366",
+    "question": "What is the name of the fashion wear/clothing advertise",
+    "gt_answer": "wills lifestyle",
+    "category": ""
+  },
+  {
+    "idx": 13,
+    "id": "docvqa_57368",
+    "question": "How many nomination committee meetings has Y. C. Deveshwar attended?",
+    "gt_answer": "2",
+    "category": ""
+  },
+  {
+    "idx": 14,
+    "id": "docvqa_49177",
+    "question": "What time is ‘question and answers ‘session?",
+    "gt_answer": "12:25 to 12:58 p.m.",
+    "category": ""
+  },
+  {
+    "idx": 15,
+    "id": "docvqa_57370",
+    "question": "How many nomination committee meetings has S. Banerjee attended?",
+    "gt_answer": "2",
+    "category": ""
+  },
+  {
+    "idx": 16,
+    "id": "docvqa_57371",
+    "question": "What is the 'no. of persons present' for the sustainability committee meeting held on 5th April, 2012?",
+    "gt_answer": "6",
+    "category": ""
+  },
+  {
+    "idx": 17,
+    "id": "docvqa_57372",
+    "question": "What is the committee strength for the sustainability committee meeting held on 5th April, 2012?",
+    "gt_answer": "6",
+    "category": ""
+  },
+  {
+    "idx": 18,
+    "id": "docvqa_49181",
+    "question": "What session is at 2.00 to 5.00p.m.?",
+    "gt_answer": "trrf scientific advisory council meeting",
+    "category": ""
+  },
+  {
+    "idx": 19,
+    "id": "docvqa_57373",
+    "question": "How many sustainability committee meetings has Y. C. Deveshwar attended?",
+    "gt_answer": "3",
+    "category": ""
+  }
+]

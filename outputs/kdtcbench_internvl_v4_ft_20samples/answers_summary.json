@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "id": "kdtcbench_document_0",
+    "question": "보고서의 주요 내용이 아닌 것은 무엇인가요?\nA: 안전 인프라 확충, B: 재난 및 사고 예방 체계 구축, C: 시민 안전 교육 강화, D: 긴급 대응 시스템 개선\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "B",
+    "category": "document"
+  },
+  {
+    "idx": 1,
+    "id": "kdtcbench_document_1",
+    "question": "보고서에서 알려지지 않은 정보는 무엇인가요?\nA: 주소, B: 전화, C: 홈페이지, D: 이메일\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 2,
+    "id": "kdtcbench_document_2",
+    "question": "문서의 올바른 문서번호는 무엇인가요?\nA: TI-2023-001, B: IT-2023-000, C: IT-2023-001, D: IT-2024-001\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "C",
+    "category": "document"
+  },
+  {
+    "idx": 3,
+    "id": "kdtcbench_document_3",
+    "question": "문서 안 정보를 바탕으로, 해당 제안서에 참여하지 않은 인물은 누구인가요?\nA: 김혁신, B: 오박사, C: 박미래, D: 이금융\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "B",
+    "category": "document"
+  },
+  {
+    "idx": 4,
+    "id": "kdtcbench_document_4",
+    "question": "이용자는 평일에 도서관을 몇 시간 이용할 수 있나요?\nA: 6시간, B: 8시간, C: 10시간, D: 12시간\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 5,
+    "id": "kdtcbench_document_5",
+    "question": "도서관 안내데스크의 전화번호 뒷자리로 올바른 것은?\nA: 6426, B: 8513, C: 8836, D: 5678\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 6,
+    "id": "kdtcbench_document_6",
+    "question": "계약서에서 보증금은 얼마입니까?\nA: 500만원, B: 1000만원, C: 1500만원, D: 2000만원\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "A",
+    "category": "document"
+  },
+  {
+    "idx": 7,
+    "id": "kdtcbench_document_7",
+    "question": "계약서에서 월 임대료는 얼마입니까?\nA: 50만원, B: 100만원, C: 120만원, D: 150만원\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "C",
+    "category": "document"
+  },
+  {
+    "idx": 8,
+    "id": "kdtcbench_document_8",
+    "question": "여행 예약 확인서에서 호텔의 체크인 시간은 몇 시라고 표기되어 있습니까?\nA: 오전 11시, B: 오후 1시, C: 오후 3시, D: 오후 5시\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "C",
+    "category": "document"
+  },
+  {
+    "idx": 9,
+    "id": "kdtcbench_document_9",
+    "question": "여행 예약 확인서에서 여행의 출발일은 언제인가요?\nA: 2023년 7월 15일, B: 2023년 7월 22일, C: 2023년 6월 1일, D: 2023년 8월 15일\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "A",
+    "category": "document"
+  },
+  {
+    "idx": 10,
+    "id": "kdtcbench_document_10",
+    "question": "주최사 직인은 문서의 어느 부분에 있습니까?\nA: 왼쪽 상단, B: 오른쪽 상단, C: 왼쪽 하단, D: 오른쪽 하단\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 11,
+    "id": "kdtcbench_document_11",
+    "question": "해당 문서의 내용과 비교하였을때, 옳지 않은 선택지는 무엇인가요??\nA: 신년맞이 콘서트는 2023년 12월 31일 오후 8시에 개최된다., B: 콘서트의 개최 장소는 서울 올림픽 공원 체조경기장이다., C: 티켓의 QR코드가 첨부되어 있다., D: 좌석은 VIP석 B열 15번이다.\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 12,
+    "id": "kdtcbench_document_12",
+    "question": "식물 재배 일지에 표기된 식물은 어느 것입니까?\nA: 스투키, B: 스파티필름, C: 몬스테라, D: 라벤더\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "B",
+    "category": "document"
+  },
+  {
+    "idx": 13,
+    "id": "kdtcbench_document_13",
+    "question": "식물 재배 일지에서 다음 작업은 무엇입니까?\nA: 환기시키기, B: 물주기, C: 잎 닦기, D: 가지치기\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "A",
+    "category": "document"
+  },
+  {
+    "idx": 14,
+    "id": "kdtcbench_document_14",
+    "question": "환경 보호 활동 보고서에서 활동 기간은 총 몇 일로 작성되어 있나요?\nA: 1일, B: 4일, C: 7일, D: 10일\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 15,
+    "id": "kdtcbench_document_15",
+    "question": "다음 환경 보호 활동 보고서를 참고하였을때, 환경 보호 활동의 성과로 명시되지 않은 것은 무엇인가요?\nA: 한강공원 환경 개선, B: 시민 환경의식 향상, C: 길거리 문화 발전, D: 지역사회 환경보호 활동 확대\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "C",
+    "category": "document"
+  },
+  {
+    "idx": 16,
+    "id": "kdtcbench_document_16",
+    "question": "환경 보고서에 표기된 조치 사항이 아닌 것은?\nA: 대기 오염 저감 대책 수립, B: 수질 개선 프로그램 실시, C: 생태계 보호 구역 지정, D: 생태계 다양성 조사\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "D",
+    "category": "document"
+  },
+  {
+    "idx": 17,
+    "id": "kdtcbench_document_17",
+    "question": "환경 보고서의 승인자는 누구인가요?\nA: 장서연, B: 윤수민, C: 김필재, D: 박판순\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "A",
+    "category": "document"
+  },
+  {
+    "idx": 18,
+    "id": "kdtcbench_document_18",
+    "question": "환경영향평가에서 표기되어 있는 평가 항목이 아닌 것은?\nA: 미세먼지, B: 해충, C: 지하수, D: 공사 소음\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "B",
+    "category": "document"
+  },
+  {
+    "idx": 19,
+    "id": "kdtcbench_document_19",
+    "question": "환경영향평가에서 대기에 대한 조치 사항으로 옳은 것은 무엇인가요?\nA: 방음벽 설치, B: 살수 장치 설치, C: 방음벽 제거, D: 살수 장치 제거\n주어진 선택지 중 해당 옵션의 문자로 바로 답하세요.",
+    "gt_answer": "B",
+    "category": "document"
+  }
+]

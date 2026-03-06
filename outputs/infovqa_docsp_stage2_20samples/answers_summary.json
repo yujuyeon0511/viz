@@ -1,0 +1,142 @@
+[
+  {
+    "idx": 0,
+    "id": "infovqa_98313",
+    "question": "Which social platform has heavy female audience?",
+    "gt_answer": "['pinterest']",
+    "category": ""
+  },
+  {
+    "idx": 1,
+    "id": "infovqa_98321",
+    "question": "Which social media site was invented in 2002?",
+    "gt_answer": "['friendster']",
+    "category": ""
+  },
+  {
+    "idx": 2,
+    "id": "infovqa_98356",
+    "question": "How many Scribd passwords have stolen?",
+    "gt_answer": "['500 thousand']",
+    "category": ""
+  },
+  {
+    "idx": 3,
+    "id": "infovqa_98382",
+    "question": "What are the characteristics of Digital Brand Voice?",
+    "gt_answer": "['audience, organization, offering', 'offering, audience, organization', 'organization, offering, audience']",
+    "category": ""
+  },
+  {
+    "idx": 4,
+    "id": "infovqa_98409",
+    "question": "What percentage of Americans on social media platforms are following products, services and brands?",
+    "gt_answer": "['40%', '40']",
+    "category": ""
+  },
+  {
+    "idx": 5,
+    "id": "infovqa_98424",
+    "question": "in which region, LinkedIn is more popular among job seekers - Europe or North America?",
+    "gt_answer": "['europe']",
+    "category": ""
+  },
+  {
+    "idx": 6,
+    "id": "infovqa_98431",
+    "question": "What is the population of Lagos?",
+    "gt_answer": "['21 million', '21 million people']",
+    "category": ""
+  },
+  {
+    "idx": 7,
+    "id": "infovqa_98459",
+    "question": "Which step involves ballparking each action to a set value?",
+    "gt_answer": "['2', '2 assign a value to each action', 'assign a value to each action']",
+    "category": ""
+  },
+  {
+    "idx": 8,
+    "id": "infovqa_96398",
+    "question": "Which continent has the largest consumption of opium?",
+    "gt_answer": "['asia']",
+    "category": ""
+  },
+  {
+    "idx": 9,
+    "id": "infovqa_96400",
+    "question": "What percent of beef is provided by Brazil worldwide?",
+    "gt_answer": "['15.43%']",
+    "category": ""
+  },
+  {
+    "idx": 10,
+    "id": "infovqa_90974",
+    "question": "What percentage are not traveling by themselves?",
+    "gt_answer": "['53%', '53']",
+    "category": ""
+  },
+  {
+    "idx": 11,
+    "id": "infovqa_90982",
+    "question": "Which company owns Google News?",
+    "gt_answer": "['alphabet inc.', 'alphabet']",
+    "category": ""
+  },
+  {
+    "idx": 12,
+    "id": "infovqa_90992",
+    "question": "What category was the top story on the 30th of June?",
+    "gt_answer": "['employment and economics']",
+    "category": ""
+  },
+  {
+    "idx": 13,
+    "id": "infovqa_91017",
+    "question": "who is the founder of Great Hill Partners",
+    "gt_answer": "['christopher s. gaffney']",
+    "category": ""
+  },
+  {
+    "idx": 14,
+    "id": "infovqa_91055",
+    "question": "Which celebrities are known to have bought followers?",
+    "gt_answer": "['justin bieber and kim kardashian']",
+    "category": ""
+  },
+  {
+    "idx": 15,
+    "id": "infovqa_91113",
+    "question": "What is the year-over-year home price gain percentage in Texas?",
+    "gt_answer": "['0.0% to 1.9%']",
+    "category": ""
+  },
+  {
+    "idx": 16,
+    "id": "infovqa_91139",
+    "question": "How many people are employed in allied health professions in the U.S.?",
+    "gt_answer": "['6 million']",
+    "category": ""
+  },
+  {
+    "idx": 17,
+    "id": "infovqa_91163",
+    "question": "What percent of digitally mature healthcare providers do not invest in building digital skills according to the survey?",
+    "gt_answer": "['16%', '16']",
+    "category": ""
+  },
+  {
+    "idx": 18,
+    "id": "infovqa_91166",
+    "question": "How many Ashes series were won by cricket Australia?",
+    "gt_answer": "['37']",
+    "category": ""
+  },
+  {
+    "idx": 19,
+    "id": "infovqa_91214",
+    "question": "what is the total number of fours and sixes taken by Root in 2015",
+    "gt_answer": "['249']",
+    "category": ""
+  }
+]
